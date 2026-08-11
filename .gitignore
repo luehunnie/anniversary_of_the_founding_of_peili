@@ -1,0 +1,9 @@
+# Local AI assistant configuration
+.claude/
+CLAUDE.md
+AGENTS.md
+.cursor/
+.windsurf/
+.gemini/
+.aider*
+.mcp.json
