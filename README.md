@@ -1,0 +1,2 @@
+# anniversary_of_the_founding_of_peili
+培黎校庆小程序（如果你想品鉴石山可以看看尝试修改）
